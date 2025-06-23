@@ -1,7 +1,7 @@
 # 🎯 OSINT Bookmarks 
 > 🔗  | click with caution.
 
-📜 [Read the full disclaimer](DISCLAIMER.md)
+📜 [Read the full disclaimer](disclaimer.md)
 
 
 ### 🔍 Archives
