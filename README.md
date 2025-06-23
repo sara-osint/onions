@@ -1,5 +1,5 @@
 # 🎯 OSINT Bookmarks 
-> 🔗 Tool names with visible domains | click with caution.
+> 🔗  | click with caution.
 
 
 ### 🔍 Archives
